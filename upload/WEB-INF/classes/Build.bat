@@ -1,0 +1,1 @@
+javac -classpath .;c:\tomcat\lib\servlet-api.jar;c:\tomcat\lib\ojdbc8.jar *.java
